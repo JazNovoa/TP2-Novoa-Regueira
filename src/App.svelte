@@ -62,7 +62,7 @@
 <!-- Estructura contenido HTML -->
 <main>
   <div class="header">
-    <img class="titulo" src="./public/images/TITULO.svg" width="50%" />
+    <img class="titulo" src="./images/TITULO.svg" width="50%" />
   </div>
 <div class="contenedor-linea">
   <div class="linea"></div>
@@ -91,7 +91,7 @@
   </div>
 
   <div class="footer-container">
-    <img class="indice" src="./public/images/INDICE-11.svg" />
+    <img class="indice" src="./images/INDICE-11.svg" />
     <h1 class="footer">Elaborado por Jazmin Novoa y Julieta Regueira <br>Visualización de Datos <strong>UTDT</strong></h1>
   </div>
 </main>
